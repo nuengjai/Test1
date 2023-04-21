@@ -5,3 +5,4 @@ Detail 02
 Detail 03
 Add WT02
 Detail WT02-01
+Detail WT02-02
