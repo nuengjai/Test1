@@ -10,3 +10,5 @@ Detail WT01-05
 Add WT02
 Detail WT02-01
 Detail WT02-02
+Add WT05 after starting system test
+Detail WT05-01
